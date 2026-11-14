@@ -1,0 +1,17 @@
+{
+  "name": "youngkoku-portfolio",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxi dev -p 3000",
+    "build": "nuxi build",
+    "generate": "nuxi generate"
+  },
+  "dependencies": {
+    "nuxt": "^4.1.0",
+    "gsap": "^3.12.5",
+    "lenis": "^1.1.18",
+    "ogl": "^1.0.11",
+    "matter-js": "^0.20.0"
+  }
+}
